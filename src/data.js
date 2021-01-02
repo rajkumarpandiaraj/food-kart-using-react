@@ -35,6 +35,7 @@ const menus = [{
     price : 100,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 1,
@@ -44,6 +45,7 @@ const menus = [{
     price : 150,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 2,
@@ -53,6 +55,7 @@ const menus = [{
     price : 80,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 3,
@@ -62,6 +65,7 @@ const menus = [{
     price : 100,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 4,
@@ -71,6 +75,7 @@ const menus = [{
     price : 149,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 5,
@@ -80,6 +85,7 @@ const menus = [{
     price : 79,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 6,
@@ -89,6 +95,7 @@ const menus = [{
     price : 99,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 7,
@@ -98,6 +105,7 @@ const menus = [{
     price : 199,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 8,
@@ -107,6 +115,7 @@ const menus = [{
     price : 79,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 9,
@@ -116,6 +125,7 @@ const menus = [{
     price : 169,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 10,
@@ -125,6 +135,7 @@ const menus = [{
     price : 479,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 11,
@@ -134,6 +145,7 @@ const menus = [{
     price : 79,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 12,
@@ -143,6 +155,7 @@ const menus = [{
     price : 149,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 13,
@@ -152,6 +165,7 @@ const menus = [{
     price : 179,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 14,
@@ -161,6 +175,7 @@ const menus = [{
     price : 199,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 15,
@@ -170,6 +185,7 @@ const menus = [{
     price : 119,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 16,
@@ -179,6 +195,7 @@ const menus = [{
     price : 249,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 17,
@@ -188,6 +205,7 @@ const menus = [{
     price : 179,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 18,
@@ -197,6 +215,7 @@ const menus = [{
     price : 79,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 19,
@@ -206,6 +225,7 @@ const menus = [{
     price : 179,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 20,
@@ -215,6 +235,7 @@ const menus = [{
     price : 179,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 21,
@@ -224,6 +245,7 @@ const menus = [{
     price : 179,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 22,
@@ -233,6 +255,7 @@ const menus = [{
     price : 99,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 23,
@@ -242,6 +265,7 @@ const menus = [{
     price : 79,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 24,
@@ -251,6 +275,7 @@ const menus = [{
     price : 249,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 25,
@@ -260,6 +285,7 @@ const menus = [{
     price : 249,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 26,
@@ -269,6 +295,7 @@ const menus = [{
     price : 100,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
 {
     id : 27,
@@ -278,16 +305,9 @@ const menus = [{
     price : 49,
     quantity : 1,
     inCart : false,
+    total : 0,
 },
-{
-    id : 28,
-    category : 'new',
-    name : 'veg Bowl' ,
-    img : lunch,
-    price : 150,
-    quantity : 1,
-    inCart : false,
-},];
+];
 
 
 export default menus

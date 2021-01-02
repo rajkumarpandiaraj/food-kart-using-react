@@ -1,7 +1,7 @@
 import React from 'react'
-import Cart from './Cart'
 import ItemContainer from './ItemContainer'
 import MenuBar from './MenuBar'
+import Cart from './Cart';
 
 function Wrapper() {
     return (
